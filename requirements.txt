@@ -1,0 +1,16 @@
+# Core
+langchain
+langchain-core
+langchain-openai
+llama-index
+llama-index-llms-openai-like
+llama-index-embeddings-huggingface
+sentence-transformers
+
+# Backend
+fastapi
+uvicorn
+
+# Tools
+requests
+python-dotenv

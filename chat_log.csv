@@ -1,0 +1,64 @@
+timestamp,session_id,query,response,crisis_flag
+2026-03-30T01:14:08.540454,web-swdflpzqyq,hi,Hello. It's nice to connect with you. How are you feeling today? Is there something on your mind that you'd like to talk about? I'm here to listen and offer support.,False
+2026-03-30T01:14:15.525501,web-swdflpzqyq,i am feeling lonely,"I'm so sorry to hear that you're feeling lonely. It can be a really tough and isolating feeling. Would you like to talk about what's been going on and how you've been feeling? Sometimes sharing your thoughts and feelings with someone who cares can help you feel a bit more connected.
+
+Also, if you're comfortable, what are some things that usually bring you comfort or joy? We can explore ways to help you feel more connected and less alone. Remember, you're not alone in feeling this way, and there are people who care about you.",False
+2026-03-30T01:15:48.513034,web-swdflpzqyq,hi,"Hello again. I'm glad you're back. We were just talking about feeling lonely, and I want you to know that I'm still here to listen and support you. If you're ready, we can pick up where we left off or start a new conversation. What's been on your mind since we last spoke?",False
+2026-03-30T11:15:37.912461,web-tqvt5ptru5,hi i feel anxious,"I'm so sorry to hear that you're feeling anxious. That can be really tough. Would you like to talk about what's on your mind and what's causing you to feel anxious? Sometimes sharing your thoughts and feelings can help you feel a bit better. I'm here to listen and offer support. Remember, if your anxiety is overwhelming, it's always a good idea to reach out to a mental health professional for extra guidance and care. What's been going on that's making you feel anxious?",False
+2026-03-31T12:48:32.824161,web-9dm0kk48bh,"i am sad, i feel like giving up","I'm so sorry to hear that you're feeling sad and hopeless. It takes a lot of courage to acknowledge those feelings. Remember that you're not alone, and it's okay to feel overwhelmed. 
+
+Can you tell me a bit more about what's been going on and how you've been feeling? Sometimes sharing your emotions can help you feel a little better. If you're not comfortable talking about it, that's okay too. 
+
+Also, I want to remind you that there are people who care about you and want to help. If you're in crisis or feeling like you might harm yourself, please reach out to a trusted friend, family member, or a professional helpline for support. You can also call emergency services or a crisis hotline, such as the National Suicide Prevention Lifeline (1-800-273-TALK), for immediate help.
+
+Remember, you are strong, capable, and deserving of love and care. We can get through this together, one step at a time.",False
+2026-03-31T12:49:32.178905,web-9dm0kk48bh,"i am lonely, unable to handle pressure","It can be really tough to feel lonely and overwhelmed by pressure. It's like the weight of the world is on your shoulders, and it's hard to find someone to share that burden with.
+
+First, let me remind you that it's okay to not be okay. It's normal to feel lonely and struggling to cope with pressure. You're not alone in this feeling. Many people experience it, and there is help available.
+
+If you feel comfortable, can you tell me a bit more about what's causing you to feel lonely and pressured? Is it work, relationships, or something else? Sometimes talking about it can help clarify things and give us a starting point to work from.
+
+In the meantime, here are a few things that might help:
+
+* Reach out to a trusted friend or family member and let them know how you're feeling. Sometimes just talking to someone can help you feel more connected.
+* Consider joining a support group or club that aligns with your interests. This can be a great way to meet new people and build connections.
+* Take small breaks and practice self-care. This can be as simple as taking a walk, reading a book, or listening to music that you enjoy.
+* If you're feeling overwhelmed, try to break down your tasks into smaller, more manageable chunks. This can help make things feel less daunting.
+
+Remember, you don't have to face this alone. If you're struggling to cope with your emotions or if you're in crisis, please reach out to a mental health professional or a crisis hotline for support. They can provide you with guidance, support, and resources to help you navigate these feelings.
+
+You are not alone, and you are deserving of love, care, and connection. Keep in mind that it's okay to ask for help, and it's a sign of strength, not weakness.",False
+2026-03-31T12:49:55.004215,web-9dm0kk48bh,i am having an anxiety attack,"I'm so sorry to hear that you're having an anxiety attack. It can be a really scary and overwhelming experience. 
+
+First, please know that you are safe, and I'm here to support you. Take a deep breath with me: inhale slowly through your nose, hold it for a second, and exhale slowly through your mouth. Let's do that a few times together.
+
+Here are some things that might help you feel more grounded and calm:
+
+* Try to focus on your five senses: notice the sensation of your feet on the ground, the sounds around you, the sensation of the air on your skin, and the sensation of your breath moving in and out of your body.
+* Take slow, deep breaths, and try to let go of any tension in your body.
+* If you're in a safe space, try to get up and move around a bit. Sometimes, gentle movement can help calm the body.
+* If you have a comfort object, such as a favorite blanket or stuffed animal, hold onto it and see if it brings you any sense of calm.
+
+Remember, anxiety attacks are temporary, and they will pass. You've gotten through tough moments before, and you can do it again.
+
+If you're in immediate distress or if your anxiety attack is severe, please reach out to a trusted friend, family member, or mental health professional for support. You can also call emergency services or a crisis hotline, such as the National Alliance on Mental Illness (NAMI) Helpline (1-800-950-6264), for immediate help.
+
+You are strong, capable, and deserving of love and care. You got this, and I'm here to support you.",False
+2026-03-31T13:00:10.352364,web-9dm0kk48bh,MUJHE EXAM STRESS HAI,"मैं समझता हूँ कि एग्जाम का समय बहुत तनावपूर्ण हो सकता है। यह सामान्य है कि आप इस समय परीक्षा के बारे में चिंतित महसूस कर रहे हैं।
+
+कुछ बातें जो आपको मदद कर सकती हैं:
+
+* अपने पढ़ाई के समय को व्यवस्थित करें और एक समय सारिणी बनाएं। इससे आपको अपने लक्ष्यों को प्राप्त करने में मदद मिलेगी।
+* नियमित रूप से पढ़ाई करें और अपने पाठ्यक्रम को धीरे-धीरे कवर करें। इससे आपको आत्मविश्वास मिलेगा और आपकी तैयारी में सुधार होगा।
+* अपने दोस्तों और परिवार के साथ समय बिताएं और उनसे बात करें। इससे आपको तनाव से मुक्ति मिलेगी और आपको नई ऊर्जा मिलेगी।
+* अपने स्वास्थ्य का ध्यान रखें और नियमित रूप से व्यायाम करें। इससे आपको शारीरिक और मानसिक रूप से स्वस्थ रहने में मदद मिलेगी।
+* यदि आप बहुत अधिक तनाव महसूस कर रहे हैं, तो अपने शिक्षकों या काउंसलर से बात करें। वे आपको मार्गदर्शन और समर्थन प्रदान कर सकते हैं।
+
+याद रखें कि परीक्षा का समय केवल एक阶段 है और यह जल्द ही समाप्त हो जाएगा। आप अपने लक्ष्यों को प्राप्त करने के लिए कड़ी मेहनत कर रहे हैं और आपको अपने प्रयासों पर गर्व होना चाहिए।
+
+आपको अपने एग्जाम के लिए शुभकामनाएं!",False
+2026-03-31T14:26:20.709019,web-9dm0kk48bh,1,"It seems like you're feeling overwhelmed and just needed to express yourself. Sometimes, a simple ""1"" can say a lot.
+
+Remember, you're not alone, and it's okay to feel overwhelmed. If you're willing, can you tell me a bit more about what's on your mind? I'm here to listen and offer support.
+
+If not, that's okay too. Just know that you're doing the best you can, and that's something to be proud of. Take a deep breath, and let's get through this together, one step at a time.",False
