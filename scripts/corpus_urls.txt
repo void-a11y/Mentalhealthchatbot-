@@ -1,0 +1,20 @@
+# One URL per line. Public-domain US government sources (NIMH).
+# The fetch script reports any URL that fails; remove or replace those lines.
+#
+# Uses the /health/publications/* pages (full "What you need to know" content),
+# not the /health/topics/* hub pages, which are mostly links and research news.
+# Suicide pages are left out on purpose: any message mentioning suicide is routed
+# to the safety layer before retrieval, so those documents could never be used.
+
+https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad
+https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms
+https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness
+https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet
+https://www.nimh.nih.gov/health/publications/depression
+https://www.nimh.nih.gov/health/publications/bipolar-disorder
+https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd
+https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over
+https://www.nimh.nih.gov/health/publications/eating-disorders
+https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider
+https://www.nimh.nih.gov/health/topics/psychotherapies
+https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health
